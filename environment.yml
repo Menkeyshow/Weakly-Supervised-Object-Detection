@@ -1,0 +1,14 @@
+name: bachlor-thesis
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - pydot
+  - numpy
+  - opencv
+  - matplotlib
+  - tensorflow
+  - pylint
+  - spyder==3.3.6
+
+
